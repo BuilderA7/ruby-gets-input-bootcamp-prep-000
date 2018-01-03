@@ -6,5 +6,4 @@ describe 'greeting' do
 
     greeting("you")
   end
-end
-sdfkjahsdfkjhasdkljfh
+endlear
